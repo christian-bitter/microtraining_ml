@@ -1,0 +1,6 @@
+pandas
+plotly
+ipywidgets
+sklearn
+umap-learn
+graphviz
